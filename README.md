@@ -50,7 +50,7 @@ Manufacturing Analysis using Excel, SQL, Power BI &amp; Tableau
 
 * 📷 Dashboard Preview
 
-  Manufacturing Dashboard(dashboard.png)
+  [Manufacturing Dashboard](dashboard.png)
 
 * 💡 Business Impact
 
