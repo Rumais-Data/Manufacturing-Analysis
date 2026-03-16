@@ -18,48 +18,46 @@ Manufacturing Analysis using Excel, SQL, Power BI &amp; Tableau
   Tableau
 
 
-📊 Key Metrics
+* 📊 Key Metrics
 
-Total Produced Quantity: 109M
+  Total Produced Quantity: 109M
 
-Manufactured Quantity: 72M
+  Manufactured Quantity: 72M
 
-Balance Quantity: 28M
+  Balance Quantity: 28M
 
-Rejected Quantity: 441K
+  Rejected Quantity: 441K
 
-📈 Dashboard Insights
+* 📈 Dashboard Insights
 
-Identifies top performing employees by production output.
+ Identifies top performing employees by production output.
 
-Shows top machines contributing to production.
+ Shows top machines contributing to production.
 
-Tracks daily production trends.
+ Tracks daily production trends.
 
-Compares manufactured vs rejected quantity to evaluate production quality.
+ Compares manufactured vs rejected quantity to evaluate production quality.
 
-🎛 Filters Available
+* 🎛 Filters Available
 
-Department
+ Department
 
-Production Type
+ Production Type
 
-Date
+ Date
 
-These filters allow users to analyze production data interactively.
+ - These filters allow users to analyze production data interactively.
 
-📷 Dashboard Preview
+* 📷 Dashboard Preview
 
-Manufacturing Dashboard(dashboard.png)
+  Manufacturing Dashboard(dashboard.png)
 
-💡 Business Impact
+* 💡 Business Impact
 
-This dashboard helps manufacturing companies:
+  This dashboard helps manufacturing companies: Monitor production performance in real time.
 
-Monitor production performance in real time
+  Identify underperforming machines or employees.
 
-Identify underperforming machines or employees
+  Reduce rejection rates.
 
-Reduce rejection rates
-
-Improve production planning and operational efficiency
+  Improve production planning and operational efficiency.
