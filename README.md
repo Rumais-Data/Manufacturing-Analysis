@@ -30,21 +30,21 @@ Manufacturing Analysis using Excel, SQL, Power BI &amp; Tableau
 
 * 📈 Dashboard Insights
 
- Identifies top performing employees by production output.
+  Identifies top performing employees by production output.
 
- Shows top machines contributing to production.
+  Shows top machines contributing to production.
 
- Tracks daily production trends.
+  Tracks daily production trends.
 
- Compares manufactured vs rejected quantity to evaluate production quality.
+  Compares manufactured vs rejected quantity to evaluate production quality.
 
 * 🎛 Filters Available
 
- Department
+  Department
 
- Production Type
+  Production Type
 
- Date
+  Date
 
  - These filters allow users to analyze production data interactively.
 
